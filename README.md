@@ -2,7 +2,7 @@
 
 This is my personal portfolio website showcasing my skills, projects, and contact information.
 
- **Live Website:** [https://mufaroivy.github.io/](https://mufaroivy.github.io/)
+ **Live Website:** [https://Eliot3886.github.io/](https://Eliot3886.github.io/)
 
 ---
 
